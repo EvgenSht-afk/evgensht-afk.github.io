@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/1yggd1hr6h1nb.css","style"]
+:HL["/_next/static/chunks/2cb6ocm-rju7x.css","style"]
 :HL["/_next/static/media/Oswald-s.p.36vnzydago666.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"Ay9_VOXkoRe77cvjXkITt","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_4x11G5PwdOQxirwxKvTc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
