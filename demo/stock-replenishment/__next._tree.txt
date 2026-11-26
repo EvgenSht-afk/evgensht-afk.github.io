@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/2cljlbyjckfms.css","style"]
+:HL["/_next/static/media/Oswald-s.p.36vnzydago666.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/chunks/13n3v_69hds_p.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"stock-replenishment","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"demo","h":96,"c":"$Q2"}]]
+0:{"b":"xFXZduojUsHnfZVkIIEsH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

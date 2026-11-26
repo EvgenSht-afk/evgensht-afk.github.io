@@ -2,4 +2,4 @@
 :HL["/_next/static/media/Oswald-s.p.36vnzydago666.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"ALJvSEXM7DfpVYU1ycqV6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xFXZduojUsHnfZVkIIEsH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
